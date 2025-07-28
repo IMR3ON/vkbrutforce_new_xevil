@@ -19,7 +19,7 @@ Table of Contents
 
 Requirements
 
-    Python 3.7 or higher
+    Python 3.10 or higher
 
     Pip package manager
 
@@ -38,7 +38,7 @@ Installation
 
     pip install requests colorama concurrent-log-handler xevel pysocks
 
-    Download the script and save it as vk_checker.py
+    Download the script and save it as VKBrutforce_new_captcha-xevil.py
 
 Preparation
 
